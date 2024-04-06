@@ -1,0 +1,55 @@
+[
+  {
+    "albuns": [
+      {
+        "id": 1,
+        "nome": "EASY",
+        "artista": "LE SSERAFIM",
+        "imagem": "https://akamai.sscdn.co/uploadfile/letras/albuns/d/e/5/c/2126051708364581.jpg",
+        "categoria": "K-Pop",
+        "musicas": [
+          {
+            "um": "Good Bones",
+            "dois": "EASY",
+            "tres": "Swan Song",
+            "quatro": "Smart",
+            "cinco": "We got so much",
+            "seis": "EASY (Sped Upver.)"
+          }
+        ],
+        "ouvirAlbum": "https://music.youtube.com/playlist?list=OLAK5uy_lwciGzwX10K-Hfv0B4cD9-WSzODiUioaI&si=fllxaQTYAxh8xGnu"
+      },
+      {
+        "id": 2,
+        "nome": "<NAME>",
+        "artista": "<NAME>",
+        "imagem": "https://akamai.sscdn.co/uploadfile/letras/albuns/d/e/5/c/2126051708364581.jpg",
+        "categoria": "K-Pop",
+        "musicas": [
+          {
+            "um": "Good Bones",
+            "dois": "EASY",
+            "tres": "Swan Song",
+            "quatro": "Smart",
+            "cinco": "We got so much",
+            "seis": "EASY (Sped Upver.)"
+          }
+        ],
+        "ouvirAlbum": "https://music.youtube.com/playlist?list=OLAK5uy_lwciGzwX10K-Hfv0B4cD9-WSzODiUioaI&si=fllxaQTYAxh8xGnu"
+      }
+    ],
+    "ouvidos": [
+      {
+        "id": 1,
+        "album": 1,
+        "avaliacao": 4.3,
+        "avaliacaoIndividual": [
+          {
+            "musica": "Good Bones",
+            "nota": 4
+          }
+        ]
+      }
+    ]
+  }
+]
